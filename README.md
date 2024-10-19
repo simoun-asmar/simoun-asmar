@@ -48,7 +48,7 @@ Here are a few ongoing projects I'm working on:
 ---
 
 ## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simoun-asmar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simounasmar)  
 - Email: simon.asmar.sy@hotmail.com  
 - Portfolio: [simoun-asmar.github.io](https://simoun-asmar.github.io)
 
