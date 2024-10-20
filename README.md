@@ -23,6 +23,24 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst in the making, const
 
 ---
 
+## 💻 Tools & Technologies:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌟 Want to see the story behind the data?
+Data is more than just numbers—it's about telling a story. And what better way to tell that story than through **interactive dashboards**?  
+
+👁️ **Check out my Tableau Public profile** to explore how I turn raw data into meaningful insights with visualizations! 
+
+[![Tableau](https://img.shields.io/badge/Tableau-005FAD?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/simoun.asmar)
+
+---
+
 ## 🚀 My Projects:
 Here are a few ongoing projects I'm working on:
 
@@ -37,24 +55,6 @@ Here are a few ongoing projects I'm working on:
 
 ---
 
-## 🌟 Want to see the story behind the data?
-Data is more than just numbers—it's about telling a story. And what better way to tell that story than through **interactive dashboards**?  
-
-👁️ **Check out my Tableau Public profile** to explore how I turn raw data into meaningful insights with visualizations! 
-
-[![Tableau](https://img.shields.io/badge/Tableau-005FAD?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/simoun.asmar)
-
----
-
-## 💻 Tools & Technologies:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simounasmar)  
 - Email: simon.asmar.sy@hotmail.com  
@@ -65,4 +65,3 @@ Data is more than just numbers—it's about telling a story. And what better way
 ## 🌟 Fun fact:
 - 🌎 I'm based in Düsseldorf, Germany, and love analyzing global datasets!
 - 🐕 When I'm not crunching numbers, I enjoy spending time with my Havanese dog.
-
