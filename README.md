@@ -37,6 +37,15 @@ Here are a few ongoing projects I'm working on:
 
 ---
 
+## 🌟 Want to see the story behind the data?
+Data is more than just numbers—it's about telling a story. And what better way to tell that story than through **interactive dashboards**?  
+
+👁️ **Check out my Tableau Public profile** to explore how I turn raw data into meaningful insights with visualizations! 
+
+[![Tableau](https://img.shields.io/badge/Tableau-005FAD?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/simoun.asmar)
+
+---
+
 ## 💻 Tools & Technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
