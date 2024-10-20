@@ -41,20 +41,6 @@ Data is more than just numbers—it's about telling a story. And what better way
 
 ---
 
-## 🚀 My Projects:
-Here are a few ongoing projects I'm working on:
-
-- [**TravelTide Data Analysis**](https://github.com/your-repo-link)  
-  SQL-based project analyzing tourism data using PostgreSQL.
-  
-- [**Meta Database Cleaning**](https://github.com/your-repo-link)  
-  Data cleaning and query optimization for the Meta Database.
-
-- [**Nike Data Analysis**](https://github.com/your-repo-link)  
-  A comprehensive analysis of Nike's sales and customer data.
-
----
-
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simounasmar)  
 - Email: simon.asmar.sy@hotmail.com  
