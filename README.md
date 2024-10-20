@@ -3,8 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate Data Analyst in the making, constantly exploring new datasets and expanding my skills. Here’s a little more about me:
 
 ---
-
-✨ **Creating bugs since:** *2022*  
+ 
 📊 **Currently learning:** Advanced SQL, Tableau, Python for data analysis, and Google Sheets  
 🎯 **Goals:** Build insightful dashboards, master data cleaning techniques, and optimize SQL queries  
 🎲 **Fun fact:** I can analyze data faster than I can solve a Rubik's cube! 🧩
