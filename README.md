@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate Data Analyst in the making, constantly exploring new datasets and expanding my skills. Here’s a little more about me:
 
 ---
- 
+
 📊 **Currently learning:** Advanced SQL, Tableau, Python for data analysis, and Google Sheets  
 🎯 **Goals:** Build insightful dashboards, master data cleaning techniques, and optimize SQL queries  
 🎲 **Fun fact:** I can analyze data faster than I can solve a Rubik's cube! 🧩
@@ -44,7 +44,9 @@ Data is more than just numbers—it's about telling a story. And what better way
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simounasmar)  
 - Email: simon.asmar.sy@hotmail.com  
-- Portfolio: [simoun-asmar.github.io](https://simoun-asmar.github.io)
+
+## 🌐 Visit My Portfolio Website:
+[![Portfolio](https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=githubpages&logoColor=white)](https://simoun-asmar.github.io)
 
 ---
 
