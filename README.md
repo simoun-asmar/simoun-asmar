@@ -29,7 +29,8 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst in the making, const
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![dbt Cloud](https://img.shields.io/badge/dbt%20Cloud-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ---
 
 ## 🌟 Want to see the story behind the data?
