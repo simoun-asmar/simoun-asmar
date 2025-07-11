@@ -18,9 +18,23 @@ Welcome to my GitHub! I’m a dedicated and curious Data Analyst passionate abou
 - **BigQuery + Fivetran** – End-to-end data integration workflows  
 - **Databricks** – Analyzing and visualizing data in the cloud  
 - **dbt** – Transforming and testing data at scale
-
+- **AWS** – Launching EC2 instances, configuring security groups and VPCs, hosting static websites on S3, managing RDS databases  
+- **Terraform** – Writing Infrastructure as Code to automate AWS deployments
 ---
 
+## 🔧 Also diving into Cloud Engineering
+Alongside my data work, I’m building practical experience in **Cloud Engineering**, focusing on deploying real infrastructure with AWS.  
+So far, I’ve:
+- Deployed EC2 instances and hosted full websites on them  
+- Used the AWS CLI to manage services directly  
+- Configured S3 buckets to host static websites  
+- Set up RDS instances for PostgreSQL  
+- Created infrastructure setups with **Terraform**  
+- Managed access and permissions using **IAM**
+
+I’m expanding into this space to bridge analytics with scalable, production-ready infrastructure.
+
+---
 ## 👀 A little about me
 When I’m not analyzing data, I’m either improving a dashboard, testing a new SQL trick, or helping others understand how to turn numbers into decisions.
 
@@ -36,6 +50,8 @@ When I’m not analyzing data, I’m either improving a dashboard, testing a new
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Fivetran](https://img.shields.io/badge/Fivetran-0A84FF?style=for-the-badge&logo=fivetran&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ---
 
 ## 🌟 Want to see the story behind the data?
