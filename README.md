@@ -13,7 +13,7 @@ Welcome to my GitHub! I’m a dedicated and curious Data Analyst passionate abou
 ##  Current Focus
 - **SQL** – Query optimization and data modeling  
 - **Python** – Data wrangling and automation  
-- **Tableau** – Effective visual storytelling  
+- **Tableau + Power BI** – Effective visual storytelling  
 - **Google Sheets** – Smart functions for fast analysis  
 - **BigQuery + Fivetran** – End-to-end data integration workflows  
 - **Databricks** – Analyzing and visualizing data in the cloud  
